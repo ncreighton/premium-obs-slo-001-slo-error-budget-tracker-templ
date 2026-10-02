@@ -1,0 +1,2 @@
+# premium-obs-slo-001-slo-error-budget-tracker-templ
+Your error budget is burning faster than you can track it, and your team doesn't have a single source of truth for SLO health. Stop juggling spreadsheets and scattered dashboards—the SLO Error Budget Tracker Template gives you complete visibility into every service's reliability burn rate in one beautifully organized Notion workspace.  This templat
